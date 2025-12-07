@@ -1,6 +1,6 @@
 # Vanilla Minecraft SMP Server
 
-**IP:** `70.26.189.107:25565`  
+**IP:** `65.94.211.191:25565`  
 **Hosted on:** Raspberry Pi (3GB RAM, Docker)  
 **Version:** Vanilla (no mods/plugins)
 
